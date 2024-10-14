@@ -23,13 +23,13 @@ This project implements an order management system for a small coffee shop in Se
 
 The system generates bar graphs to visualize:
 - Milk preferences by number of orders
-  ![Milk Type](MilkType.png)
+<img src="MilkType.png" alt="Coffee Image" width="400">
 
 - Roast type popularity
-![Roast Type](Roasttype.png)
+<img src="Roasttype.png" alt="Coffee Image" width="400">
 
 - Coffee type preferences
-![Coffee Type](Coffeetype.png)
+<img src="Coffeetype.png" alt="Coffee Image" width="400">
 
 
 ## Project Structure
